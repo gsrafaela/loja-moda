@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: "FuturaLTPro-Book";
+    background-image: url(../src/images/brilho.png);
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  code {
+    font-family: "FuturaLTPro-Book";
+  }
